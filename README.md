@@ -3,6 +3,10 @@
 - CMake multi-module project
 - Tests via `Catch2`
 
+## Description 
+
+Toy banking-system application is used in the example.
+
 ## Build
 
 ```bash
@@ -12,6 +16,12 @@
 Run tests:
 ```bash
 ./run_tests
+```
+
+## Run application
+
+```bash
+./build/application/bank-system
 ```
 
 ## Project structure
