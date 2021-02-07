@@ -1,4 +1,4 @@
-# `C++` multi-module project skeleton 
+# Example of a multi-module C++ project with CMake
 
 - CMake multi-module project
 - Tests via `Catch2`
