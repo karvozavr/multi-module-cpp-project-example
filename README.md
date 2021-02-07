@@ -15,7 +15,7 @@ Toy banking-system application is used in the example.
 
 Run tests:
 ```bash
-./run_tests
+./run_tests.sh
 ```
 
 ## Run application
